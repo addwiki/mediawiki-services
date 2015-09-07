@@ -6,7 +6,8 @@
 	"license": "GPL-2.0+",
 	"authors": [
 		{
-			"name": "Benestar"
+			"name": "Bene*",
+			"email": "benestar.wikimedia@gmail.com"
 		}
 	],
 	"require": {
@@ -15,6 +16,11 @@
 	"autoload": {
 		"psr-4": {
 			"Mediawiki\\Services\\": "src/"
+		}
+	},
+	"extra": {
+		"branch-alias": {
+			"dev-master": "0.1.x-dev"
 		}
 	}
 }
