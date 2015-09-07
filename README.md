@@ -8,6 +8,8 @@
 
 Service interfaces to interact with the mediawiki datamodel
 
+Issue tracker: https://phabricator.wikimedia.org/project/profile/1490/
+
 ## Installation
 
 Use composer to install the library and all its dependencies:
