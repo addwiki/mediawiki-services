@@ -2,7 +2,7 @@
 
 namespace MediaWiki\Services;
 
-using MediaWiki\DataModel\Pages;
+use MediaWiki\DataModel\Pages;
 
 /**
  * @author Bene* < benestar.wikimedia@gmail.com >

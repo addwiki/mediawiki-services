@@ -2,7 +2,7 @@
 
 namespace MediaWiki\Services;
 
-using MediaWiki\DataModel\LogList;
+use MediaWiki\DataModel\LogList;
 
 /**
  * @author Bene* < benestar.wikimedia@gmail.com >
